@@ -10,3 +10,5 @@ Data Visualizations can be found [here](https://public.tableau.com/app/profile/t
 - Peak hours for both casual and member riders are pretty similar.
 - Popular Start stations are similar among casual and member riders.
 - There are more member riders than casual riders.
+
+![citi bikes](citi-bike-station-bikes.png)
