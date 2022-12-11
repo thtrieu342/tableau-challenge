@@ -1,12 +1,12 @@
 # Citi Bike Data Visualization
 
 ## Data Source: 
-https://s3.amazonaws.com/tripdata/index.html
+Data set can be found [here](https://s3.amazonaws.com/tripdata/index.html).
 
-## Output:
-https://public.tableau.com/app/profile/toni5386/viz/CitiBikeAnalysisHomework_16240656410610/Story1
+## Data Visualization:
+Data Visualizations can be found [here](https://public.tableau.com/app/profile/toni5386/viz/CitiBikeAnalysisHomework_16240656410610/Story1) on my Tableau Public.
 
 ## Analysis:
-1. Peak hours for both casual and member riders are pretty similar.
-2. Popular Start stations are similar among casual and member riders.
-3. There are more member riders than casual riders.
+- Peak hours for both casual and member riders are pretty similar.
+- Popular Start stations are similar among casual and member riders.
+- There are more member riders than casual riders.
